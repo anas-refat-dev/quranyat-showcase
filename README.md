@@ -18,6 +18,11 @@
   <img alt="Arabic RTL" src="https://img.shields.io/badge/i18n-Arabic%20RTL%20%2B%20English-f29b0e">
 </p>
 
+<p align="center">
+  <b>Live:</b> <a href="https://quranyat.onrender.com">quranyat.onrender.com</a>
+  (staff login only, so there is nothing to see without an account; the walkthrough below shows the app)
+</p>
+
 ---
 
 ## The problem
@@ -39,12 +44,18 @@ academy already works instead of asking families to adopt something new.
   class: *Delivered*, *Student absent*, *Cancelled*, or *Didn't happen*.
 - **The supervisor** works queues: approves new students and confirms their tier and price,
   confirms the parent's WhatsApp number, and approves payment screenshots.
-- **The owner** manages programs, tiers, prices and settings, and sees revenue without asking
-  anyone.
+- **The owner** manages programs, tiers, prices, settings and the team, and decides who gets
+  each Telegram notice.
 - **Parents have no account.** They get a single-purpose link, upload a payment screenshot,
   and that's it. The amount owed is computed by the system (tier + sibling discount).
 - **Renewal notices arrive in Telegram** as ready-to-send text with action buttons, so the
   supervisor can forward them to families on WhatsApp in seconds.
+
+## Walkthrough
+
+<p align="center">
+  <img src="docs/walkthrough.gif" alt="A 35-second walkthrough: request, class marking, Telegram renewal notice, parent upload, payment review, follow-up, team" width="320">
+</p>
 
 ## How it works, step by step
 
