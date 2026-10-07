@@ -74,9 +74,9 @@ reports new requests, uploaded payments, expired grace periods and classes nobod
 Each notice goes to one person, and tapping **Sent ✓** in Telegram marks the renewal as sent in the app.
 
 <p>
-  <img src="docs/screenshots/telegram-follow-up.png" alt="Telegram: renewal notice with a copy-ready WhatsApp message, an expired grace period, unmarked classes" width="280">
-  &nbsp;
   <img src="docs/screenshots/telegram-requests.png" alt="Telegram: linking the account, a new payment screenshot and two subscription requests" width="280">
+  &nbsp;
+  <img src="docs/screenshots/telegram-follow-up.png" alt="Telegram: renewal notice with a copy-ready WhatsApp message, an expired grace period, unmarked classes" width="280">
 </p>
 
 **4. The parent pays and uploads the screenshot.**
